@@ -6,7 +6,7 @@
 
 *写代码、搓 Shader、做点好玩的小游戏和小工具 ✨*
 
-[![Email](https://img.shields.io/badge/Email-gwxcsny53%40163.com-FFB6C1?style=flat-square&logo=mail.ru&logoColor=white)](mailto:gwxcsny53@163.com)
+[![Email](https://img.shields.io/badge/Email-gwxcsny53%40163.com-FFB6C1?style=flat-square&logo=mail.ru&logoColor=white)](mailto:gwxcsny@gmail.com)
 
 </div>
 
